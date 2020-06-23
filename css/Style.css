@@ -1,0 +1,135 @@
+body{
+	font-family: Segoe UI;
+	font-size: 15px;
+	color: #878787;
+}
+
+header{
+	background-color: transparent;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 9999999;
+}
+
+.lista-redes i{
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	background-color:  #fba755;
+	border-radius: 100%;
+	text-align: center;
+}
+
+.lista-redes .nav-link{
+	padding-right: 5px !important;
+}
+
+
+#inicio{
+	background-image: url("../img/home-header-bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	padding: 30% 0;
+	text-align: center;
+}
+
+#inicio h1{
+	font-size: 50px;
+}
+
+#inicio h3{
+	font-size: 15px;
+}
+
+.btn-naranja{
+	background: #fba755;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 0;
+	padding: 15px 30px;
+	border: 0;
+	letter-spacing: 1px;
+}
+
+.btn-blanco{
+	background: #FFFFFF;
+	color:#000000;
+	text-transform: uppercase;
+	border-radius: 0;
+	padding: 15px 30px;
+	border: 0;
+	letter-spacing: 1px;
+}
+
+#inicio{
+	text-align: left;
+}
+
+h1.Blanco{
+	color: white;
+}
+
+span.Naranja{
+	color: #fba755;	
+}
+
+#Our-Coaches{
+	padding-top: 90px;
+	text-align: center;
+}
+
+.titulo{
+	font-size: 45px;
+	font-weight: 600;
+	margin-bottom: 40px;
+	color: #000;
+}
+
+h4{
+	padding-top: 20px;
+	font-size: 20px;
+	color: #000;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+
+.info-brand{
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: left;
+}
+
+#branding{
+	text-align: center;
+	padding: 30px;
+}
+
+#branding img{
+	padding-top: 30px;
+	padding-left: 300px;	
+}
+
+footer{
+	padding: 10px;
+	background-color: #272525;
+	text-align: center;
+	color: #7e7979;
+	font-size: 13px;
+}
+
+footer ul li a{
+	color: #fff;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
